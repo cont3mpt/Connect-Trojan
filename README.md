@@ -1,7 +1,7 @@
 # Connect-Trojan
 
 * site:connecttrojan2020
-* site:tr
+* Password:tr
 
 * https://www.connect-trojan.com
 * https://www.connect-trojan.net
